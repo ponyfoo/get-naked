@@ -1,0 +1,8 @@
+{
+  "name": "ponyfoo-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "MIT"
+}
