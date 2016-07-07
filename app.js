@@ -10,7 +10,7 @@ function listening () {
 }
 
 function handler (req, res) {
-  redirect(res, 301, 'http://ponyfoo.com' + req.url);
+  redirect(res, 301, 'https://ponyfoo.com' + req.url);
 }
 
 function redirect (res, status, url) {
